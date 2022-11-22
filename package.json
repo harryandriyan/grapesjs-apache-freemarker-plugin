@@ -1,0 +1,30 @@
+{
+  "name": "grapesjs-apache-freemarker-plugin",
+  "version": "1.0.0",
+  "description": "GrapesJS component for the embed of apache freemarker custom code",
+  "main": "dist/index.js",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "grapesjs-cli build",
+    "start": "grapesjs-cli serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harryandriyan/grapesjs-apache-freemarker-plugin.git"
+  },
+  "keywords": [
+    "grapesjs",
+    "plugin",
+    "import",
+    "custom",
+    "code"
+  ],
+  "author": "Harry Andriyan",
+  "license": "MIT",
+  "devDependencies": {
+    "grapesjs": "^0.20.1",
+    "grapesjs-cli": "^3.0.1"
+  }
+}
