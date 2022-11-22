@@ -1,6 +1,6 @@
 {
   "name": "grapesjs-apache-freemarker-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GrapesJS component for the embed of apache freemarker custom code",
   "main": "dist/index.js",
   "files": [
